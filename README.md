@@ -3,10 +3,10 @@ This Repo uses the Hough Transform Technique to detect straigh lines in an image
 
 ![Results of Standard Hough Transform](results/standard_hough.png)
 
-![Results of Probabilistic Hough Transform](tool_preview/probabilistic_hough.png)
+![Results of Probabilistic Hough Transform](results/probabilistic_hough.png)
 
 ## Probabilistic Hough Tranform
 
-![Results of Document Alignment Correction](tool_preview/doc_rotation.png)
+![Results of Document Alignment Correction](results/doc_rotation.png)
 
 
